@@ -1,0 +1,17 @@
+"Nùmero Mayor"
+Inicio
+Escribir "Ingresar un Número";
+Leer numero1;
+Escribir "Ingresar un Número diferente";
+Leer numer2;
+
+Si (numero 1 es mayor que numero 2){
+Escribir (El primer número es mayor)
+};
+
+De lo contrario {
+Escribir (El segundo número es mayor)
+};
+Fin del proceso
+    
+

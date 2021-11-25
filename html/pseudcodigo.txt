@@ -15,3 +15,25 @@ Escribir (El segundo número es mayor)
 Fin del proceso
     
 
+--------
+
+"Multiplicar sin simbolos"
+
+Inicio
+Escribir "Porfavor escriba un número";
+Leer num1;
+Escribir "Porfavor escriba otro número";
+Leer num2;
+
+Definir variable multiplicacion = 0;
+Proceso
+CicloFor (index=1; index<=num2, indexx++){
+    multiplicación+a
+}
+Finciclo;
+
+Escrbir "El resultado es 'multiplicacion'";
+
+
+Fin del proceso
+
